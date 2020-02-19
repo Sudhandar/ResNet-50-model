@@ -33,7 +33,7 @@ Test Accuracy = 0.925
 
 The model has an accuracy of 92.5%
 
-The model structure can be viewed [here](). 
+The model structure can be viewed [here](https://github.com/Sudhandar/ResNet-50-model/tree/master/output). 
 
 ## Model Summary:
 
