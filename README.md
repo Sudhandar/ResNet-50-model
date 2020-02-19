@@ -25,7 +25,7 @@ The images for the architecture are obtained from this [blog](https://towardsdat
 
 ## Output Accuracy:
 
-The model was trained using Google colab platform for 20 epochs. The following is the output,
+The model was trained using Google colab platform for 20 epochs. The model was trained on the signs dataset.The following is the output,
 
 120/120 [==============================] - 1s 6ms/sample - loss: 0.2791 - accuracy: 0.9250
 Loss = 0.2790559738874435
